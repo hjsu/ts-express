@@ -1,6 +1,6 @@
-Boilerplate for a simple typescript-node repo with webpack.
+Boilerplate for a simple typescript-express repo with webpack.
 
 To run:
 
 - yarn build
-- node dist/index.js Hello World
+- yarn start

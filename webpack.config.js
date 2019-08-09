@@ -2,8 +2,8 @@ const path = require('path');
 
 module.exports = {
   target: 'node',
-  entry: './src/server/bin/www.js',
-  devtool: 'inline-source-map',
+  entry: './src/server/bin/www.ts',
+  devtool: 'source-map',
   node: {
     __dirname: true
   },
